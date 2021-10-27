@@ -1,0 +1,61 @@
+.logo-Samsung {
+  font-size: large;
+  font-weight: 1000;
+  /* margin-top: -10px; */
+}
+.magnifier {
+  margin-left: 1750px;
+  margin-top: -32px;
+  position:absolute;
+}
+.cart {
+  margin-left: 1790px;
+  margin-top: -32px;
+  position: absolute;
+}
+.bricks {
+  margin-left: 1830px;
+  margin-top: -28px;
+  position: absolute;
+}
+.Mobile {
+  margin-left: 200px;
+  margin-top: -26px;
+  font-weight: 500;
+  position: absolute;
+}
+ .TVAV {
+  margin-left: 280px;
+  margin-top: -26px;
+  font-weight: 500;
+}
+.Home {
+  margin-left: 370px;
+  margin-top: -24px;
+  font-weight: 500;
+}
+.Computing {
+  margin-left: 530px;
+  margin-top: -24px;
+  font-weight: 500;
+} 
+.Offers {
+  margin-left: 640px;
+  margin-top: -24px;
+  font-weight: 500;
+}
+.Explore {
+  margin-left: 1200px;
+  margin-top: -24px;
+  font-weight: 500;
+} 
+.Support {
+  margin-left: 1300px;
+  margin-top: -24px;
+  font-weight: 500;
+} 
+.Business {
+  margin-left: 1400px;
+  margin-top: -24px;
+  font-weight: 500;
+} 
